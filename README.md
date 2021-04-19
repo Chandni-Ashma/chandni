@@ -8,3 +8,8 @@ git init
 git add .
 git commit -m "initial commit"
 ```
+Git pull request 
+
+```
+git pull https://github.com/jakariamd/chandni.git
+```
