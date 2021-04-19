@@ -1,4 +1,4 @@
-## Run the following commands
+Git basic commands
 
 ```
 git config --global user.name "Ashma Akter Chandni"
